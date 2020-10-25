@@ -1,5 +1,5 @@
 {
-  "name": "lg-form",
+  "name": "lg-form-garry",
   "version": "0.0.1",
   "description": "",
   "main": "index.js",
@@ -11,5 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "lodash": "^4.17.20"
-  }
+  },
+  "gitHead": "1af569fcdfb7366d4e72d7dc1d07e801625ce310"
 }

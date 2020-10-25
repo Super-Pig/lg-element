@@ -11,5 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "lodash": "^4.17.20"
-  }
+  },
+  "gitHead": "1af569fcdfb7366d4e72d7dc1d07e801625ce310"
 }
